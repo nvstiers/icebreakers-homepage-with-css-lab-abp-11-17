@@ -40,3 +40,8 @@ h3#header {
   float: left;
   font-size: 30px;
 }
+
+#header a {
+  color: #868e96;
+  text-decoration: none;
+}
